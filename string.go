@@ -1,5 +1,5 @@
 package testmodule
 
 func Get() string {
-	return "version one"
+	return "version two"
 }
